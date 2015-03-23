@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Jacob wants to order a burger.
+Jacob wants to order a burger - #8 for eat-in.
 -->
 
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>
@@ -9,9 +9,9 @@ Jacob wants to order a burger.
     <customer>Jacob</customer>    
     <burger>
         <patty type="beef" />
-        <cheeses top="swiss" />
-        <topping type="lettuce" />
+        <cheeses top="gruyere" />
+        <topping type="shrooms" />
+        <sauce type="ketchup" />
         <sauce type="mayo" />
-        <sauce type="fksauce" />
     </burger>
 </order>
