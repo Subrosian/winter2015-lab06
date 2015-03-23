@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Order #3 is Jacob's dream burger.
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="eatin">
+    <customer>Jacob</customer>    
+    <burger>
+        <patty type="beef" />
+        <cheeses top="american" />
+        <topping type="lettuce" />
+        <topping type="tomato" />
+        <topping type="bacon" />
+        <sauce type="mayo" />
+        <sauce type="fksauce" />
+        <instructions>Peanut butter on it, as well</instructions>
+        <name>Jacob's Dream Burger</name>
+    </burger>
+</order>

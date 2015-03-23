@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Jacob wants to order a burger.
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="eatin">
+    <customer>Jacob</customer>    
+    <burger>
+        <patty type="beef" />
+        <cheeses top="swiss" />
+        <topping type="lettuce" />
+        <sauce type="mayo" />
+        <sauce type="fksauce" />
+    </burger>
+</order>
